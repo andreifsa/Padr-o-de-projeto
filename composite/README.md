@@ -11,3 +11,5 @@
 
 ![myimage-alt-tag](https://miro.medium.com/max/449/0*ULNhYAHKOl216tcZ.gif)
 
+
+- A folha é o elemento base de uma árvore e executa as funções. O cliente é responsável por manipular os objetos através da interface do Componente, enquanto o componente declara a interface para os objetos presentes nesta composição além de declarar a interface para acessar os componentes filhos. E por fim o composite define o comportamento dos componentes que possuam componentes-filho.
