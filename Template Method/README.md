@@ -18,4 +18,8 @@ O Template Method chama várias operações, entre as quais as operações abstr
 ### ClasseConcreta
 - Implementa as operações abstratas para desempenhar as etapas do algoritmo que tenham comportamento específico a esta subclasse
 
+### Exemplo de código:
+
+[Link para exemplo](https://github.com/andreifsa/Padr-o-de-projeto/blob/master/Template%20Method/Codigo.java)
+
 
