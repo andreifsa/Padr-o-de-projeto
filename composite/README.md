@@ -8,6 +8,7 @@
 
 - A estrutura do composite é constituida em 4 elementos: a folha, o cliente, composite e o componente
 
+## Estrutura
 
 ![myimage-alt-tag](https://miro.medium.com/max/449/0*ULNhYAHKOl216tcZ.gif)
 
