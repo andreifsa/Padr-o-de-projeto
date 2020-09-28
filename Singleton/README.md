@@ -25,3 +25,4 @@ Pode ser responsável pela criação de sua instância única
 
 ### Exemplo de código
 
+[Link para exemplo](https://github.com/andreifsa/Padr-o-de-projeto/blob/master/Singleton/Singleton.java)
