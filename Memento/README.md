@@ -28,3 +28,5 @@ Cria um novo objeto ao pedir que um protótipo se
 clone.
 
 ### Exemplo de código
+
+[Link para exemplo](https://github.com/andreifsa/Padr-o-de-projeto/blob/master/Memento/C%C3%B3digo.java)
