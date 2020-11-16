@@ -26,4 +26,4 @@ O padrão State é comumente usado em Java para converter enormes máquinas de e
 
 ### Exemplo de código
 
-[Link para exemplo](https://github.com/andreifsa/Padr-o-de-projeto/blob/master/Singleton/Singleton.java)
+[Link para exemplo](https://github.com/andreifsa/Padr-o-de-projeto/blob/master/State/exemplo.java)
