@@ -22,4 +22,4 @@ Em questão de aplicabilidade podemos utiliza-lo em geral quando necessitamos de
 
 ### Exemplo de código
 
-[Link para exemplo](https://github.com/andreifsa/Padr-o-de-projeto/blob/master/Memento/C%C3%B3digo.java)
+[Link para exemplo](https://github.com/andreifsa/Padr-o-de-projeto/tree/master/Strategy)
